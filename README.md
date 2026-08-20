@@ -51,7 +51,7 @@ Soft glassmorphism, accessible color contrast, and calm navigation designed to m
 Clean, fast, performance-focused platform that turns complex tasks into simple tools.  
 **Role:** Frontend Developer  
 **Stack:** React, Tailwind CSS, Vite  
-🔗 [Live](https://logicbuilds.co.za)
+[🔗](https://logicbuilds.co.za)
 
 ---
 
