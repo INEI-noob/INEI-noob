@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:inei.ttv@gmail.com">Email</a>
+  <a href="mailto:inei.ttv@gmail.com">📧</a>
 </p>
 
 ---
