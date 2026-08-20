@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/zander-oelofse" target="_blank">LinkedIn</a> •
   <a href="mailto:inei.ttv@gmail.com">Email</a>
 </p>
 
@@ -74,4 +73,3 @@ If you need a frontend developer who cares about design, performance, and the pe
 
 - 💼 Portfolio: Coming Soon
 - 📧 Email: [inei.ttv@gmail.com](mailto:inei.ttv@gmail.com)
-- 💬 LinkedIn: [Zander Oelofse](https://linkedin.com/in/zander-oelofse)
