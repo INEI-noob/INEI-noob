@@ -58,7 +58,6 @@ Clean, fast, performance-focused platform that turns complex tasks into simple t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=INEI-noob&show_icons=true&theme=default&hide_border=true&bg_color=FAF8F5&title_color=1E1B18&text_color=6B6560&icon_color=A8C0E0" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=INEI-noob&theme=default&hide_border=true&background=FAF8F5&ring=A8C0E0&fire=D1C4E9&currStreakLabel=1E1B18" alt="GitHub streak" />
 </p>
 
