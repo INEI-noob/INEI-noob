@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1E1B18&center=true&vCenter=true&width=600&lines=Front-End+Developer;Creative+Problem+Solver;Accessibility+Advocate;Building+calm+web+experiences" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F5B6F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Creative+Problem+Solver;Accessibility+Advocate;Building+calm+web+experiences" alt="Typing animation" />
 </p>
 
 <p align="center">
-  Hi, I'm <strong>inei_xo</strong> — I build calm, accessible, high-performing web experiences that feel effortless and human.
+  Hi, I'm <strong>inei</strong> — I build calm, accessible, high-performing web experiences that feel effortless and human.
 </p>
 
 <p align="center">
